@@ -1,4 +1,4 @@
-    {
+{
         "no" : 4,
         "name": "더보기용",
         "age": 20,
@@ -6,8 +6,7 @@
         "characteristic": "git데이터불러오기",
         "likes": 45,
         "nickname": "열심히하겠습니다.",
-        "photo": ['https://github.com/taurenHorde/test/blob/main/assets/samoyed0.jpg?raw=true',
-        'https://github.com/taurenHorde/test/blob/main/assets/samoyed1.jpg?raw=true',
-        'https://github.com/taurenHorde/test/blob/main/assets/samoyed2.jpg?raw=true',
-         ]
-    }
+        "photo": ["https://github.com/taurenHorde/test/blob/main/assets/samoyed0.jpg?raw=true",
+        "https://github.com/taurenHorde/test/blob/main/assets/samoyed1.jpg?raw=true",
+        "https://github.com/taurenHorde/test/blob/main/assets/samoyed2.jpg?raw=true",
+         ]}
